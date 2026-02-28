@@ -9,6 +9,8 @@ Welcome to the **AI Coding 5xP Template**! This repository is a boilerplate and 
 
 If you are tired of rewriting the same context prompts over and over, or struggling with your agent hallucinating tools you don't use, this framework is your solution.
 
+**[The 5xP Framework: Steering AI Coding Agents from Chaos to Success](https://medium.com/@fmind/the-5xp-framework-steering-ai-coding-agents-from-chaos-to-success-83fbdb318b2b)**
+
 ---
 
 ## What is Context Engineering?
