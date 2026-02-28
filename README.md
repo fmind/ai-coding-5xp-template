@@ -3,13 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-**Steering AI Coding Agents from Chaos to Success through Context Engineering.**
+**[The 5xP Framework: Steering AI Coding Agents from Chaos to Success](https://medium.com/@fmind/the-5xp-framework-steering-ai-coding-agents-from-chaos-to-success-83fbdb318b2b)**
 
 Welcome to the **AI Coding 5xP Template**! This repository is a boilerplate and reference guide demonstrating the **5xP Context Framework**—a brutally simple and highly maintainable directory structure designed to keep AI coding agents (like Gemini, Copilot, Cline, or Antigravity) perfectly aligned with your architectural goals.
 
 If you are tired of rewriting the same context prompts over and over, or struggling with your agent hallucinating tools you don't use, this framework is your solution.
-
-**[The 5xP Framework: Steering AI Coding Agents from Chaos to Success](https://medium.com/@fmind/the-5xp-framework-steering-ai-coding-agents-from-chaos-to-success-83fbdb318b2b)**
 
 ---
 
